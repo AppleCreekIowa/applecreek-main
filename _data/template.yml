@@ -1,9 +1,16 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503   
+  #primary: 758a0a
+  primary: 65bb06
+  # secondary: 554f18
+  secondary: 244b2e
   secondary-dark: 333
   muted: 777
+
+background-image:
+  farm/sheepreflectedonpond.jpg
+
+
 
 # Font Families
 font:
