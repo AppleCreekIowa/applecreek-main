@@ -7,6 +7,8 @@ color:
   secondary: 244b2e
   secondary-dark: 333
   muted: 7b7d80
+  # hover: 254,209,54,.9
+  hover: 231, 140, 21, 0.9
 
 background-image:
   farm/sheepreflectedonpond.jpg
