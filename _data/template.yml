@@ -1,11 +1,12 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
   #primary: 758a0a
-  primary: 65bb06
+  # primary: 52a161
+  primary: 32882e
   # secondary: 554f18
   secondary: 244b2e
   secondary-dark: 333
-  muted: 777
+  muted: 7b7d80
 
 background-image:
   farm/sheepreflectedonpond.jpg
