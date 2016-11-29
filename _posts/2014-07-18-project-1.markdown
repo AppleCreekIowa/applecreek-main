@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2016-11-18
 img: ../farm/bartgpa.jpg
-thumbnail: ../farm/bart-3.jpg
+thumbnail: ../farm/bartgpa.jpg
 alt: image-alt
 description: Grandpa Thueninck and Bart III 1967
 
