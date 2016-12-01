@@ -1,15 +1,12 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Retainer - $30/hr
+subtitle:  Custom work and updates.
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2016-11-18
+img: ../farm/bartgpa.gif
+thumbnail: ../farm/bartgpa.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Retainer - hourly based - updates or other custom work. a la cart $30/hr. Or try our most popular bundle of "up to 1 hour weekly update for $1400/year". ...We can post your blog for you! It can be as simple as emailing an update or posting a youtube video and we can get it posted directly to your site!
 
 ---
