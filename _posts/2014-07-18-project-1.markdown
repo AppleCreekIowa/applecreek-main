@@ -4,8 +4,8 @@ subtitle: Bart and Grandpa
 layout: default
 modal-id: 1
 date: 2016-11-18
-img: ../farm/bartgpaorig.jpg
-thumbnail: ../farm/bartgpaorig.jpg
+img: farm/bartgpaorig.jpg
+thumbnail: farm/bartgpaorig.jpg
 alt: image-alt
 description: Basic Business Card site layout. All packages include business address and contact info, title graphic or photo, and are always built with mobile-friendly and mobile-ready design. Each section can be rearranged, added, or removed as desired!
 

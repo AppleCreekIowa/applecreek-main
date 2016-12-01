@@ -4,8 +4,8 @@ subtitle:  Grandpa Thueninck and Bart III 1967.
 layout: default
 modal-id: 3
 date: 2016-11-18
-img: ../farm/bartgpatechnicolor.jpg
-thumbnail: ../farm/bartgpatechnicolor.jpg
+img: farm/bartgpatechnicolor.jpg
+thumbnail: farm/bartgpatechnicolor.jpg
 alt: image-alt
 description: Pro solution adds custom layouts,  blog, and additional animations or site tuning made to order.
 

@@ -4,8 +4,8 @@ subtitle: Blessings of the Earth
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: ../farm/sw4.jpg
-thumbnail: ../farm/sw4.jpg
+img: farm/sw4.jpg
+thumbnail: farm/sw4.jpg
 alt: image-alt
 project-date: April 2014
 description: Dawn to dusk, we farm, we must.

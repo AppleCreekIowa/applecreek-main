@@ -4,8 +4,8 @@ subtitle: Shear Design
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: ../farm/dscf1442.jpg
-thumbnail: ../farm/dscf1442.jpg
+img: farm/dscf1442.jpg
+thumbnail: farm/dscf1442.jpg
 alt: image-alt
 description: Look! A bunch of hair-sheep!
 ---
