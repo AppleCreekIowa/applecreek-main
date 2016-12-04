@@ -1,13 +1,12 @@
 ---
-title: Rain or Shine
-subtitle: Blessings of the Earth
+title: How much meat will I get?
+subtitle: An easy to read explanation of meat yield per hanging carcass.
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: farm/sw4.jpg
-thumbnail: farm/sw4.jpg
+img: farm/thebutcherstolemymeat.jpg
+thumbnail: farm/sheepmarket.jpg
 alt: image-alt
-project-date: April 2014
-description: Dawn to dusk, we farm, we must.
+description: <a href="./img/farm/thebutcherstolemymeat.pdf">View the <u>PDF version here</u>.</a>
 
 ---
