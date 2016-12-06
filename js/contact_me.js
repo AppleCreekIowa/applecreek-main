@@ -1,5 +1,5 @@
 $(function() {
-
+/*
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -62,7 +62,7 @@ $(function() {
         $(this).tab("show");
     });
 });
-
+*/
 
 /*When clicking on Full hide fail/success boxes */
 $('#name').focus(function() {
