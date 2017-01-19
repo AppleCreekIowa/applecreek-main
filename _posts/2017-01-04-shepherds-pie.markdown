@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2017-01-04
 img: food/hearty-shepherds-pie.jpg
-thumbnail: food/hearty-shepherds-pie-thmb.jpg
+thumbnail: food/hearty-shepherds-pie-wd-thmb.jpg
 alt: image-alt
 description:
 ---
