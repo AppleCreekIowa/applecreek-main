@@ -2,10 +2,10 @@
 title: How much meat will I get?
 subtitle: An easy to read explanation of meat yield per hanging carcass.
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: 1
+date: 2017-01-05
 img: farm/thebutcherstolemymeat.jpg
-thumbnail: farm/sheepmarket.jpg
+thumbnail: farm/howmuch.jpg
 alt: image-alt
 description: <a href="./img/farm/thebutcherstolemymeat.pdf">View the <u>PDF version here</u>.</a>
 

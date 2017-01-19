@@ -1,9 +1,9 @@
 ---
-title: Sheep
-subtitle: Shear Design
+title: Shepherd's Pie
+subtitle: Lamb Recipe
 layout: default
-modal-id: 5
-date: 2014-07-14
+modal-id: 2
+date: 2017-01-04
 img: farm/dscf1442.jpg
 thumbnail: farm/dscf1442.jpg
 alt: image-alt
