@@ -658,9 +658,15 @@ section h3.section-subheading {
     text-align: center;
 }
 
-.team-member img {
+/*.team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+}*/
+
+.team-member img {
+    margin: 0 auto;
+    border: solid .5em #{{ site.data.template.color.secondary }};
+    /*border: groove 1em #{{ site.data.template.color.primary }};*/
 }
 
 .team-member h4 {
