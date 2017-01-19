@@ -7,6 +7,7 @@ date: 2016-11-18
 img: farm/bartgpa.jpg
 thumbnail: farm/bartgpa.jpg
 alt: image-alt
+published: false
 description: Pro gets full-featured site with a product portfolio section and optional email contact form.
 
 ---
