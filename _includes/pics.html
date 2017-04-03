@@ -1,0 +1,67 @@
+<!-- Gallery Section -->
+    <section id="gallery" class="bg-light-gray">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Latest Photos</h2>
+
+                </div>
+            </div>
+
+            <div class="row text-center center-block">
+              <div class="row">
+                <!-- <div class="col-md-4"> -->
+                  <a href="https://www.instagram.com/apple_creek_farm/">
+                    <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <!-- <h4 class="service-heading">Instagram</h4> -->
+                  </a>
+                  <p class="text-muted">For more, check out our <a href="https://www.instagram.com/apple_creek_farm/">instagram</a> feed!</p>
+                </div>
+              <!-- </div> -->
+            </div>
+
+
+              <!-- SnapWidget -->
+              <!-- <script src="https://snapwidget.com/js/snapwidget.js"></script>
+
+              <iframe
+                src="https://snapwidget.com/embed/code/241825"
+                class="snapwidget-widget"
+                allowTransparency="true"
+                frameborder="0"
+                scrolling="no"
+                style="border:none; overflow:hidden; width:100%; ">
+              </iframe> -->
+
+              <div id=content> <!-- gallery -->
+                <!-- jQuery Version 1.11.0 -->
+                   <script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
+              <script>
+              jQuery(function(){
+                var accessToken = '4143939392.1677ed0.0885a85b2908411fb1f96862b8918002';
+                jQuery.getJSON('https://api.instagram.com/v1/users/self/media/recent/?access_token='+accessToken+'&callback=?',function (insta) {
+                  jQuery.each(insta.data,function (photos,src) {
+                    if ( photos === 8 ) { return false; }
+                    jQuery('<a href="'+src.link+'" class="post">'+
+                      '<div class="image" style="background-image:url('+src.images.standard_resolution.url+');"></div>'+
+                      '<ul>'+
+                      '<li><i class="fa fa-camera"></i> '+src.filter+'</li>'+
+                      '<li><i class="fa fa-heart"></i> '+src.likes.count+'</li>'+
+                      '<li><i class="fa fa-comment"></i> '+src.comments.count+'</li>'+
+                      '</ul></a>').appendTo('#content');
+                  });
+                });
+              });
+              </script>
+
+
+
+            </div> <!-- gallery -->
+
+            </div>
+        </div>
+    </section>
